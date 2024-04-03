@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "quantum-knowledge"
+version = "0.1.0"
+description = ""
+authors = ["SmokierLemur51 <ldl6147@gmail.com>"]
+readme = "README.md"
+packages = [{include = "quantum_knowledge", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+quart = "^0.19.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+start = "quantum_knowledge:run"
