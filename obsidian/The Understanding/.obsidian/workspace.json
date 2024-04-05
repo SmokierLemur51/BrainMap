@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1026f302e661dd6e",
+        "id": "3dbdc19cd44e68d5",
         "type": "tabs",
         "children": [
           {
-            "id": "f2d420bc5c028e62",
+            "id": "648b0dc84dcef6b8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,11 +138,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2d420bc5c028e62",
+  "active": "648b0dc84dcef6b8",
   "lastOpenFiles": [
+    "Python/Django/Django Models.md",
+    "Job Research/Cyber Security Jobs.md",
+    "Job Research/Programming Jobs.md",
+    "Code of Conduct.md",
+    "Job Research",
     "Welcome.md",
-    "Technology/Python/Flask",
-    "Technology/Python",
+    "Freelance/Changing Customer Minds.md",
+    "Freelance/Cold Calls.md",
+    "Freelance",
+    "Security+",
+    "Python/Django",
+    "Python/Flask",
+    "Python",
     "Technology"
   ]
 }
